@@ -23,7 +23,7 @@ contributors :- Jay Sharma,  Atharva Tribhuwane, Sunil Bhadu, Jay Pardeshi
 University 
 
 
-![sbpu](https://user-images.githubusercontent.com/46397588/165711194-2cc5ca38-1f72-4818-81eb-6eaf65186821.png)
+                                  ![sbpu](https://user-images.githubusercontent.com/46397588/165711194-2cc5ca38-1f72-4818-81eb-6eaf65186821.png)
 
 
 Intitute 
