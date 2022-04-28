@@ -20,19 +20,19 @@ HDD 250GB
 
 contributors :- Jay Sharma,  Atharva Tribhuwane, Sunil Bhadu, Jay Pardeshi
 
-University 
+#University 
 
 
 ![sbpu](https://user-images.githubusercontent.com/46397588/165711194-2cc5ca38-1f72-4818-81eb-6eaf65186821.png)
 
 
-Intitute 
+#Intitute 
 
 
 ![logo](https://user-images.githubusercontent.com/46397588/165710695-8619f996-e799-451a-b470-664b429e46dd.jpg)
 
 
 
-Secured By 
+#Secured By 
 
 ![unnamed](https://user-images.githubusercontent.com/46397588/165705328-92327993-15af-4767-9a78-b0d480d48604.png)
