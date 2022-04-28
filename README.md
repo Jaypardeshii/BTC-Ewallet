@@ -1,4 +1,4 @@
 # BTC-Ewallet
 Final Year Project BackUp file 
 
-contributors :- Jay Sharma,  Atharva Tribhuwane, Sunil Bhadu
+contributors :- Jay Sharma,  Atharva Tribhuwane, Sunil Bhadu, Jay Pardeshi
