@@ -15,7 +15,7 @@ APACHE TOMQAT SERVER
 
 Hardware Requirements
 RAM:    4GB
-HDD:     250GB![image](https://user-images.githubusercontent.com/75875166/165695400-67ec7d79-4369-425f-9e26-8c08821db9ed.png)
+HDD:    250GB![image](https://user-images.githubusercontent.com/75875166/165695400-67ec7d79-4369-425f-9e26-8c08821db9ed.png)
 
 
 
