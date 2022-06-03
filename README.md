@@ -33,6 +33,4 @@ Intitute
 
 
 
-Secured By 
 
-![unnamed](https://user-images.githubusercontent.com/46397588/165705328-92327993-15af-4767-9a78-b0d480d48604.png)
